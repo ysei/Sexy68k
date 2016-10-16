@@ -1,0 +1,29 @@
+total 4480
+-rw-r--r--  1 baron  users       0 Oct 16 13:02:09 2016 00ls.txt
+-rw-r--r--  1 baron  users   58334 Nov 21 13:38:10 2014 DSCF1132.JPG
+-rw-r--r--  1 baron  users  261817 Nov 21 13:39:48 2014 DSCF1134.JPG
+-rw-r--r--  1 baron  users  293693 Nov 21 13:51:12 2014 DSCF1135_.JPG
+-rw-r--r--  1 baron  users  302437 Nov 22 18:56:42 2014 DSCF1145.JPG
+-rw-r--r--  1 baron  users  293663 Nov 22 19:00:56 2014 DSCF1151.JPG
+-rw-r--r--  1 baron  users  323178 Nov 22 19:01:58 2014 DSCF1152_.JPG
+-rw-r--r--  1 baron  users  291321 Nov 22 19:52:44 2014 DSCF1155.JPG
+-rw-r--r--  1 baron  users  294703 Nov 22 20:47:16 2014 DSCF1157.JPG
+-rw-r--r--  1 baron  users  299881 Nov 22 22:04:08 2014 DSCF1159.JPG
+-rw-r--r--  1 baron  users  299895 Nov 22 22:05:12 2014 DSCF1161.JPG
+-rw-r--r--  1 baron  users  297642 Nov 22 22:52:24 2014 DSCF1164.JPG
+-rw-r--r--  1 baron  users  299645 Nov 22 23:55:08 2014 DSCF1167.JPG
+-rw-r--r--  1 baron  users  304918 Nov 23 00:50:06 2014 DSCF1169.JPG
+-rw-r--r--  1 baron  users  305193 Nov 23 00:50:34 2014 DSCF1170.JPG
+-rw-r--r--  1 baron  users  299633 Nov 23 00:51:10 2013 DSCF1171.JPG
+-rw-r--r--  1 baron  users  302563 Nov 23 00:51:40 2013 DSCF1172.JPG
+drw-r--r--  2 baron  users     512 Sep  1 07:49:11 2016 dengen
+
+./dengen:
+total 2832
+-rw-r--r--  1 baron  users    62121 Nov 20 18:01:22 2014 DSCF1123.JPG
+-rw-r--r--  1 baron  users    63900 Nov 20 18:11:04 2014 DSCF1125.JPG
+-rw-r--r--  1 baron  users    81270 Nov 20 18:20:42 2014 DSCF1126.JPG
+-rw-r--r--  1 baron  users    58535 Nov 20 19:55:00 2014 DSCF1127.JPG
+-rw-r--r--  1 baron  users    58475 Nov 20 19:55:24 2014 DSCF1128.JPG
+-rw-r--r--  1 baron  users    61455 Nov 20 20:07:34 2013 DSCF1129.JPG
+-rw-r--r--  1 baron  users  2399686 Nov 21 12:57:44 2013 DSCF1131.AVI
